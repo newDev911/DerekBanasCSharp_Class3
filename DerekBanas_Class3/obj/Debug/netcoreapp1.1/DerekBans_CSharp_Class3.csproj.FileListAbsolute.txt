@@ -1,0 +1,9 @@
+G:\Tutorials\C#\Exercises\DerekBanas\3\DerekBanas_Class3\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class3.deps.json
+G:\Tutorials\C#\Exercises\DerekBanas\3\DerekBanas_Class3\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class3.runtimeconfig.json
+G:\Tutorials\C#\Exercises\DerekBanas\3\DerekBanas_Class3\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class3.runtimeconfig.dev.json
+G:\Tutorials\C#\Exercises\DerekBanas\3\DerekBanas_Class3\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class3.dll
+G:\Tutorials\C#\Exercises\DerekBanas\3\DerekBanas_Class3\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class3.pdb
+G:\Tutorials\C#\Exercises\DerekBanas\3\DerekBanas_Class3\obj\Debug\netcoreapp1.1\DerekBans_CSharp_Class3.csprojResolveAssemblyReference.cache
+G:\Tutorials\C#\Exercises\DerekBanas\3\DerekBanas_Class3\obj\Debug\netcoreapp1.1\DerekBans_CSharp_Class3.AssemblyInfo.cs
+G:\Tutorials\C#\Exercises\DerekBanas\3\DerekBanas_Class3\obj\Debug\netcoreapp1.1\DerekBans_CSharp_Class3.dll
+G:\Tutorials\C#\Exercises\DerekBanas\3\DerekBanas_Class3\obj\Debug\netcoreapp1.1\DerekBans_CSharp_Class3.pdb
